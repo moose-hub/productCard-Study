@@ -109,6 +109,10 @@ h1, p {
     cursor: pointer;
 }
 
+.btn:hover {
+    background-color: #36775f;
+}
+
 @media (max-width: 430px) {
     .container {
         max-width: 350px;
