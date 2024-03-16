@@ -107,6 +107,8 @@ h1, p {
 
     font-weight: 600;
     cursor: pointer;
+
+    transition: background-color .125s ease-in-out;
 }
 
 .btn:hover {
